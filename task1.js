@@ -1,4 +1,3 @@
-// task1
 const array = [];
 const string1 = document.getElementById("string-1");
 const string2 = document.getElementById("string-2");
@@ -11,5 +10,3 @@ array.push(string3.innerText, string5.innerText, string2.innerText, string6.inne
 for (let i = 0; i < 6; i++) {
     console.log(`${array[i]} \n`);
 }
-
-// task2
